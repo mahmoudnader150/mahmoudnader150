@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
-<h3 align="center">I am a software engineer and student at the faculty of computers and artificial Intelligence Cairo university</h3>
+<h3 align="center">I am a software engineer and student at faculty of computers and artificial intelligence Cairo university</h3>
 
 - 🔭 I’m currently working on **software projects**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN satck**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 📫 How to reach me **mahnader222@gmail.com or with LinkedIn (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
+- 📫 How to reach me **mahnader222@gmail.com or with linkedin (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud nader" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud nader" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_nader" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmoudnader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudnader" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-nader-112483228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-nader-112483228/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mahmoudnader.midonader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mahmoudnader.midonader" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/_nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/_nader" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mahmoudnader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mahmoudnader/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
