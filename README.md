@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
-<h3 align="center">I am a software engineer and student at faculty of computers and artificial intelligence Cairo university</h3>
+<h3 align="center">I am a software engineer and student at the faculty of computers and artificial Intelligence Cairo University </h3>
 
 - 🔭 I’m currently working on **software projects**
 
-- 🌱 I’m currently learning **MERN satck**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 📫 How to reach me **mahnader222@gmail.com or with linkedin (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
+- 📫 How to reach me **mahnader222@gmail.com or with LinkedIn (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
