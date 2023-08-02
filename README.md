@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
 - 📫 How to reach me **mahnader222@gmail.com or with LinkedIn (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
 
