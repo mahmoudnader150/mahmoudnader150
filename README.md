@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
 <h3 align="center">I am a software engineer and student at the faculty of computers and artificial Intelligence Cairo University </h3>
 
-- 🔭 I’m currently working on **software projects**
+- 🔭 I’m currently working on **Mobile App projects**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
