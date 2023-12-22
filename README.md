@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mobile App projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Back end**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
