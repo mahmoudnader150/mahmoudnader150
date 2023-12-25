@@ -1,3 +1,9 @@
+<h6 align="right">
+  <i>
+    Information systems<br/>Cairo University (2020 - 2024)
+  </i>
+</h6> 
+
 <h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
 <h3 align="center">I am a software engineer and student at the faculty of computers and artificial Intelligence Cairo University </h3>
 
@@ -28,7 +34,7 @@
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true)
-
+<br>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&layout=compact)] 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&layout=compact)
 
