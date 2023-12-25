@@ -13,14 +13,15 @@
 </h2>
 <h3 align="center">I am a software engineer and student at the faculty of computers and artificial Intelligence Cairo University </h3>
 
-- 🔭 I’m currently working on **Mobile App projects**
+- 🔭 I’m currently working on **Full-stack mobile and web projects**
 
 - 🌱 I’m currently learning **Back end**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Projects**
 
 - 📫 How to reach me **mahnader222@gmail.com or with LinkedIn (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
-
+<br>
+<br>
 
 <h2 align="left">
   Connect with me
@@ -31,6 +32,9 @@
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/_nader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/_nader" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/mahmoudnader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mahmoudnader/" height="30" width="40" /></a>
 </p>
+
+<br>
+<br>
 
 <h2 align="left">
  Language and Tools
@@ -43,13 +47,16 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a></p>
 
+<br>
+<br>
+
 <h2 align="left">
   GitHub Statistics
 </h2>
 <p align="left">
   
 
-
-![mohamednasr553's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&theme=tokyonight&layout=compact)
 ![mohamednasr553's github stats](https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true&theme=tokyonight)
+![mohamednasr553's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&theme=tokyonight&layout=compact)
+
 
