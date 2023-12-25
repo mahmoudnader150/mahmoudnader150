@@ -24,3 +24,8 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a></p>
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&layout=compact)](https://github.com/mahmoudnader150/github-readme-stats)
+
