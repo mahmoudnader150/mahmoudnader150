@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mahnader222@gmail.com or with LinkedIn (https://www.linkedin.com/in/mahmoud-nader-112483228/)**
 <br>
-<br>
+
 
 <h2 align="left">
   Connect with me
@@ -34,7 +34,7 @@
 </p>
 
 <br>
-<br>
+
 
 <h2 align="left">
  Language and Tools
@@ -48,7 +48,7 @@
   </a></p>
 
 <br>
-<br>
+
 
 <h2 align="left">
   GitHub Statistics
