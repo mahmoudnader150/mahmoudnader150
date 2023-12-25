@@ -37,8 +37,7 @@
 <p align="left">
   
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true)
-<br>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&layout=compact)
+
+![mohamednasr553's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&theme=tokyonight&layout=compact)
+![mohamednasr553's github stats](https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true&theme=tokyonight)
 
