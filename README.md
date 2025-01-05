@@ -40,8 +40,4 @@
   <!-- Add other icons as required -->
 </p>  
 
-<h2 align="left">GitHub Statistics</h2>  
-<p align="left">  
-  ![mohamednasr553's github stats](https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true&theme=tokyonight)  
-  ![mohamednasr553's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&theme=tokyonight&layout=compact)  
-</p>
+ 
