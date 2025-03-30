@@ -8,6 +8,10 @@
 
 <h2 align="left">🚀 Tech Stack</h2>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### 👨‍💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,js" alt="Programming Languages" />
@@ -23,6 +27,9 @@
   <img src="https://skillicons.dev/icons?i=react,flutter,html,css" alt="Frontend & Mobile Development" />
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
@@ -33,10 +40,14 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="DevOps & Cloud" />
 </p>
 
-### 💻 Operating Systems & Tools
+### 💻 Tools & OS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman" alt="Operating Systems & Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
 </p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
