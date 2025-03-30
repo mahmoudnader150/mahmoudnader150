@@ -35,7 +35,7 @@
 
 ### 💻 Operating Systems & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Operating Systems & Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman" alt="Operating Systems & Tools" />
 </p>
 
 ---
