@@ -15,7 +15,7 @@
 
 <h2 align="left">🎯 Core Skills</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=550&lines=Full-Stack+Web+%26+Mobile+Development;Backend+Development+%7C+Spring+Boot+%7C+Node.js;Competitive+Programming+%7C+C%2B%2B;Problem-Solving+%7C+Data+Structures+%26+Algorithms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=550&lines=Full-Stack+Web+%26+Mobile+Development;Backend+Development+%7C+Spring+Boot+%7C+Node.js;Competitive+Programming+%7C+Data+Structures+%26+Algorithms" />
 </p>
 
 ---
