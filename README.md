@@ -42,7 +42,7 @@
 
 ### 💻 Tools & OS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,intelliJ,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
 </p>
 
 </td>
