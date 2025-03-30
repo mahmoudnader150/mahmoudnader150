@@ -7,8 +7,35 @@
 ---
 
 <h2 align="left">🚀 Tech Stack</h2>
+
+### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,flutter,js,nodejs,html,css,kotlin" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,js" alt="Programming Languages" />
+</p>
+
+### 🏗️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Technologies" />
+</p>
+
+### 🎨 Frontend & Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css" alt="Frontend & Mobile Development" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+</p>
+
+### 🐳 DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="DevOps & Cloud" />
+</p>
+
+### 💻 Operating Systems & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Operating Systems & Tools" />
 </p>
 
 ---
