@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
 
 <h6 align="right">  
-  <i>Information Systems<br/>Cairo University (2020 - 2024)</i> 
+  <i>Information Systems<br/>Cairo University (2020 - 2024)</i>
 </h6>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 💻 Tools & OS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,intelliJ,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
 </p>
 
 </td>
@@ -72,4 +72,8 @@
   <a href="https://leetcode.com/mahmoudnader/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <a href="https://mahmoudnader150.github.io/engineer-story-hub/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
