@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://mahmoudnader150.github.io/engineer-story-hub/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAAX9JREFUaIHtmNsNwjAMRX9XwA44gA6IABqgAboAE6ACOoAHqABvVQHzWZrYdY9ObuUmzk3dj+71sQIWJGSk8sSWRBcONC9UZpbw1HUNoEvHP+Ru4JUfUcTQ0/2XqOtq9nuzmN0i2XAN9VAPlrhDpqEDnFVDBVWAvr8x8RgB2XEHF5IKBFb1I6ZugHXXN7jvNSlD69XiygLa7WQNpsBTy0jaqwrfh7OBdzQ03gN95e98MflWUmx8aFDWjCktbsLZg9SoHTQqNRycdEJZQH/6d6ro5zjEvAc3o5znDWZ/nmWA40nTdyiMt+UZK3PiN2sVeYPxQfnzMCStnYf5xU7LNzDnobIXAdMC6LkAAAAASUVORK5CYII=&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
