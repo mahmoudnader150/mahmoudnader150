@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,js,ts" alt="Programming Languages" />
 </p>
 
 ### 🏗️ Backend Development
@@ -30,7 +30,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 🗄️ Databases
+### 💄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
 </p>
@@ -58,6 +58,13 @@
 
 ---
 
+<h2 align="left">🌚 LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mahmoudnader?theme=light&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
+
 <h2 align="left">🌐 Contact Me</h2>
 <p align="center">  
   <a href="https://linkedin.com/in/mahmoud-nader-112483228" target="_blank">
@@ -69,11 +76,12 @@
   <a href="https://codeforces.com/profile/_nader" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>  
-  <a href="https://leetcode.com/mahmoudnader/" target="_blank">
+  <a href="https://leetcode.com/u/mahmoudnader/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://mahmoudnader150.github.io/engineer-story-hub/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAAX9JREFUaIHtmNsNwjAMRX9XwA44gA6IABqgAboAE6ACOoAHqABvVQHzWZrYdY9ObuUmzk3dj+71sQIWJGSk8sSWRBcONC9UZpbw1HUNoEvHP+Ru4JUfUcTQ0/2XqOtq9nuzmN0i2XAN9VAPlrhDpqEDnFVDBVWAvr8x8RgB2XEHF5IKBFb1I6ZugHXXN7jvNSlD69XiygLa7WQNpsBTy0jaqwrfh7OBdzQ03gN95e98MflWUmx8aFDWjCktbsLZg9SoHTQqNRycdEJZQH/6d6ro5zjEvAc3o5znDWZ/nmWA40nTdyiMt+UZK3PiN2sVeYPxQfnzMCStnYf5xU7LNzDnobIXAdMC6LkAAAAASUVORK5CYII=&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
+---
