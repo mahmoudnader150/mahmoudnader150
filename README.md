@@ -22,17 +22,24 @@
   <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Technologies" />
 </p>
 
-### 🎨 Frontend & Mobile Development
+### 💻 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css" alt="Frontend & Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Web Development" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Mobile Development" />
 </p>
 
 </td>
 <td valign="top" width="50%">
 
-### 💄️ Databases
+### 💾 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 ### 🐳 DevOps & Cloud
@@ -40,9 +47,11 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="DevOps & Cloud" />
 </p>
 
-### 💻 Tools & OS
+### 🧰 Tools & OS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </p>
 
 </td>
@@ -83,5 +92,3 @@
     <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
