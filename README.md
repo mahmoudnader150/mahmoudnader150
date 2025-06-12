@@ -33,8 +33,6 @@
 ### 💾 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases" />
-  <br/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 ### 🐳 DevOps & Cloud
@@ -44,7 +42,7 @@
 
 ### 🧰 Tools & OS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,intellij,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,idea,clion,neovim,vscode,postman,figma" alt="Tools & OS" />
 </p>
 
 </td>
