@@ -14,17 +14,17 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,kotlin,js,ts" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,kotlin,js,ts" alt="Programming Languages" />
 </p>
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,nodejs,spring" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,nodejs,spring,django" alt="Web Development" />
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin" alt="Mobile Development" />
 </p>
 
 </td>
