@@ -14,8 +14,9 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,csharp,dart,kotlin,js,ts" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dart,kotlin,js,ts" alt="Programming Languages" />
 </p>
+
 
 ### 🌐 Web Development
 <p align="center">
