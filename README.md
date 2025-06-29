@@ -4,6 +4,10 @@
   <i>Information Systems<br/>Cairo University (2020 - 2024)</i>
 </h6>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahmoudnader150.mahmoudnader150" alt="profile views" />
+</p>
+
 ---
 
 <h2 align="left">🚀 Tech Stack</h2>
@@ -16,7 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dart,kotlin,js,ts" alt="Programming Languages" />
 </p>
-
 
 ### 🌐 Web Development
 <p align="center">
@@ -59,9 +62,12 @@
 
 ---
 
-<h2 align="left">🌚 LeetCode Stats</h2>
+<h2 align="left">📊 Coding Profiles</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahmoudnader?theme=light&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <img src="https://codeforces-card.vercel.app/?username=_nader" alt="Codeforces Stats" />
 </p>
 
 ---
