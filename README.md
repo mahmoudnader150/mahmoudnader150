@@ -64,11 +64,9 @@
 
 <h2 align="left">📊 Coding Profiles</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mahmoudnader?theme=light&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mahmoudnader?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
 </p>
-<p align="center">
-  <img src="https://codeforces-card.vercel.app/?username=_nader" alt="Codeforces Stats" />
-</p>
+
 
 ---
 
