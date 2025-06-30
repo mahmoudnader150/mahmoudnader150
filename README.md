@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="left">📊 Coding Profiles</h2>
+<h2 align="left">📊 Leetcode </h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mahmoudnader?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
 </p>
