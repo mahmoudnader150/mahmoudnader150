@@ -67,7 +67,17 @@
   <img src="https://leetcard.jacoblin.cool/mahmoudnader?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
-
+---
+<h2 align="left">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true&theme=github_dark&hide_border=true" alt="Mahmoud's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudnader150&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 <h2 align="left">🌐 Contact Me</h2>
