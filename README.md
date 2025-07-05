@@ -14,17 +14,17 @@
   <tr>
     <td width="50%" valign="top">
       
-      ### 👨‍💻 Programming Languages
+      <h3 align="center">👨‍💻 Programming Languages</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dart,kotlin,js,ts" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=java,cpp,python,cs,dart,kotlin,js,ts" alt="Programming Languages" />
       </p>
 
-      ### 🌐 Web Development
+      <h3 align="center">🌐 Web Development</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,ts,spring,django,dotnet" alt="Web Stack" />
       </p>
 
-      ### 📱 Mobile Development
+      <h3 align="center">📱 Mobile Development</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin" alt="Mobile Stack" />
       </p>
@@ -33,17 +33,17 @@
     
     <td width="50%" valign="top">
 
-      ### 💾 Databases
+      <h3 align="center">💾 Databases</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
       </p>
 
-      ### 🐳 DevOps & Cloud
+      <h3 align="center">🐳 DevOps & Cloud</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="DevOps" />
       </p>
 
-      ### 🧰 Tools & OS
+      <h3 align="center">🧰 Tools & OS</h3>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim,idea,clion,postman,figma" alt="Tools & OS" />
       </p>
