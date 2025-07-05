@@ -68,6 +68,7 @@
 </p>
 
 ---
+
 <h2 align="left">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudnader150&show_icons=true&theme=github_dark&hide_border=true" alt="Mahmoud's GitHub Stats" />
@@ -78,6 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudnader150&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 <h2 align="left">🌐 Contact Me</h2>
