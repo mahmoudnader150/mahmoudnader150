@@ -9,6 +9,9 @@
 </p>
 
 ---
+<p align="center">
+  👨‍💻 I'm a passionate software engineer with a strong foundation in backend and full-stack development. 🎓 I recently graduated from the Faculty of Computers and Artificial Intelligence, Cairo University. 🚀 I enjoy building scalable web and mobile applications, 🛠️ solving complex problems with efficient code, and 📚 continuously expanding my knowledge in new technologies and software architecture.
+</p>
 
 <h2 align="left">🚀 Tech Stack</h2>
 
