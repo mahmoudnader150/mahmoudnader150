@@ -85,6 +85,15 @@
 
 ---
 
+<h2 align="left">📘 Read More About Me</h2>
+<p align="center">
+  <a href="https://mahmoudnader.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20More%20About%20Me-1A1A1A?style=for-the-badge&logo=readme&logoColor=white" alt="Read More About Me" />
+  </a>
+</p>
+
+---
+
 <h2 align="left">🌐 Contact Me</h2>
 <p align="center">  
   <a href="https://linkedin.com/in/mahmoud-nader-112483228" target="_blank">
