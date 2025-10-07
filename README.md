@@ -108,7 +108,4 @@
   <a href="https://leetcode.com/u/mahmoudnader/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://mahmoudnader150.github.io/engineer-story-hub/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
