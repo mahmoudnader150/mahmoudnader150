@@ -26,8 +26,9 @@
 
 ### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,nodejs,spring,django,dotnet" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,ts,nodejs,nestjs,spring,dotnet" alt="Web Development" />
 </p>
+
 
 ### 📱 Mobile Development
 <p align="center">
